@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   title = "Dean’s Award for Undergraduate Final Year Thesis"
   url = ""
   date_start = "2018-01-05"
-  date_end = ""
+  date_end = "2018-01-06"
   description = "It is awarded due to obtaining the 7th place out of 180 projects / theses for
 the academic year 2017-2018."
   
