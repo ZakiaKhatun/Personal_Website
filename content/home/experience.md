@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Co-curricular activities"
 subtitle = ""
 
 # Date format for experience
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-presents-ieee-region-10-spave/"
   location = "Dhaka"
   date_start = "2016-12-04"
-  date_end = ""
+  date_end = "2016-12-24"
   description = """SPAVe stands for Student Professional Awareness Venture. SPAVe took place for the first time in the history of IEEE Bangladesh Section. This venture was supported by IEEE, IEEE USA, IEEE R10, IEEE Bangladesh Section."""  
   
 [[experience]]
