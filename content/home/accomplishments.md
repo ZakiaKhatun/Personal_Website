@@ -19,33 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = ""
+  organization_url = "https://maiamaster.udg.edu/"
+  title = "Erasmus Mundus Joint Master Scholarship in Medical Imaging and Applications (MAIA)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  date_start = "2018"
+  date_end = "2020"
+  description = "This master is a two-year study program divided into four semesters designed and developed to make sure a transparent and structured educational progression within the field of medical image analysis. This program is funded by the European Union."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "American International University-Bangladesh (AIUB)"
+  organization_url = "https://www.aiub.edu/"
+  title = "Merit Based Scholarship in Electrical & Electronic Engineering (EEE)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2014"
+  date_end = "2018"
+  description = "This bachelor degree is a four-year study program which concerns the sensible applications of electricity altogether its forms, including those of the arena of electronics."
 
 +++
