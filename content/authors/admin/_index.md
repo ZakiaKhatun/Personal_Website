@@ -50,7 +50,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: cv.pdf
+  link: https://drive.google.com/drive/folders/1ujBCHBjbRNiOyZHQ3Kzl6P4e0FcsmlIX?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zakiakhatun10@gmail.com"
