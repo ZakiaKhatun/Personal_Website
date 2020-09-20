@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.aiub.edu/"
   title = "Dean’s Award for Undergraduate Final Year Thesis"
   url = "https://www.aiub.edu/"
-  date_start = "2018-01-05"
-  date_end = "2018-01-06"
+  date_start = "2017-12-05"
+  date_end = ""
   description = "It is awarded due to obtaining the 7th place out of 180 projects / theses for the academic year 2017-2018."
   
 [[item]]
