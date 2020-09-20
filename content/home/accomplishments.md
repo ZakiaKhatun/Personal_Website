@@ -20,7 +20,6 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = ""
-  organization_url = "https://maiamaster.udg.edu/"
   title = "Erasmus Mundus Joint Master Scholarship in Medical Imaging and Applications (MAIA)"
   url = "https://maiamaster.udg.edu/"
   date_start = "2018-09-10"
@@ -31,6 +30,8 @@ date_format = "Jan 2006"
   organization = "American International University-Bangladesh (AIUB)"
   title = "Dean’s Award for Undergraduate Final Year Thesis"
   url = ""
+  date_start = "2018-01-05"
+  date_end = ""
   description = "It is awarded due to obtaining the 7th place out of 180 projects / theses for
 the academic year 2017-2018."
   
