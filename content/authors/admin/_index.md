@@ -4,21 +4,20 @@ title: Zakia Khatun
 
 # Username (this should match the folder name)
 authors:
-- admin
+- admin 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Recently graduated Master's student 
 # Organizations/Affiliations
 organizations:
-- name: Master's student in Medical Imaging and Applications 
-  url: ""
+- name:  Erasmus Mundus Joint Master Degree in Medical Imaging and Applications
+  url: "https://maiamaster.udg.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the processing and analysis of medical images with an emphasis on deep learning.
 
 interests:
 - Medical Image Processing & Analysis
@@ -29,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: Erasmus+ Joint Master Program in Medical Imaging and Applications (MAIA)
+  - course: Erasmus Mundus Joint Master Program in Medical Imaging and Applications (MAIA)
     institution: University of Burgundy; University of Cassino; University of Girona
     year: 2018-2020
   - course: BSc in Electrical & Electronic Engineering (EEE)
@@ -44,23 +43,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ZakiaKhatun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zakiakhatun10@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +62,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zakia Khatun is a recently graduated Master's student in the Medical Imaging and Applications program, which is an Erasmus Mundus Joint Master degree. Her research focuses on the processing and analysis of medical images with an emphasis on deep learning.
