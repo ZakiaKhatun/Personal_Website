@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[Activities]]
-  company = "AIUB Engineering Jubilation-2016"
-  company_url = "https://www.aiub.edu/aiub-engineering-jubilation-2016"
+  organization = "AIUB Engineering Jubilation-2016"
+  organization_url = "https://www.aiub.edu/aiub-engineering-jubilation-2016"
   title = "Volunteer"
   url = ""
   certificate_url = ""
@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[Activities]]
-  company = "IEEE Bangladesh Section SYW Congress-2016"
-  company_url = "https://sites.google.com/site/bdsywc2016/"
+  organization = "IEEE Bangladesh Section SYW Congress-2016"
+  organization_url = "https://sites.google.com/site/bdsywc2016/"
   title = "Campus Ambassador"
   url = ""
   certificate_url = ""
@@ -42,8 +42,8 @@ date_format = "Jan 2006"
   description = "The largest annual event of IEEE Bangladesh Section."
   
 [[Activities]]
-  company = "IEEE Region-10 Student Professional Awareness Venture (SPAVe), supported by IEEE USA"
-  company_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-presents-ieee-region-10-spave/"
+  organization = "IEEE Region-10 Student Professional Awareness Venture (SPAVe), supported by IEEE USA"
+  organization_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-presents-ieee-region-10-spave/"
   title = "Member of Event Coordination Committee"
   url = ""
   certificate_url = "https://drive.google.com/drive/folders/1q52i75CNjInvwes0BfzJNzOhweMcFLGK?usp=sharing"
@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   description = "SPAVe stands for Student Professional Awareness Venture. SPAVe took place for the first time in the history of IEEE Bangladesh Section. This venture was supported by IEEE, IEEE USA, IEEE R10, IEEE Bangladesh Section."
   
 [[Activities]]
-  company = "IEEE AIUB Student Branch Women in Engineering Affinity Group (WIE)"
-  company_url = "https://ieeeaiubsb.com/women-in-engineering/"
+  organization = "IEEE AIUB Student Branch Women in Engineering Affinity Group (WIE)"
+  organization_url = "https://ieeeaiubsb.com/women-in-engineering/"
   title = "Vice Chairperson"
   url = ""
   certificate_url = ""
