@@ -1,66 +1,57 @@
-
 +++
-# Co-curricular_Activities widget.
-widget = "Co-curricular_Activities"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Co-curricular_Activities"
+title = "Experience"
 subtitle = ""
 
-# Date format
+# Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Co-curricular_Activities widget.
-#   Add/remove as many `[[Activities]]` blocks below as you like.
-#   `title`, `organization` and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[Activities]]
-  organization = "AIUB Engineering Jubilation-2016"
-  organization_url = "https://www.aiub.edu/aiub-engineering-jubilation-2016"
+[[experience]]
   title = "Volunteer"
-  url = ""
-  certificate_url = ""
+  company = "AIUB Engineering Jubilation-2016"
+  company_url = "https://www.aiub.edu/aiub-engineering-jubilation-2016"
   location = "Dhaka"
   date_start = "2016-06-10"
   date_end = "2016-07-22"
-  description = ""
+  description = """"""
 
-[[Activities]]
-  organization = "IEEE Bangladesh Section SYW Congress-2016"
-  organization_url = "https://sites.google.com/site/bdsywc2016/"
+[[experience]]
   title = "Campus Ambassador"
-  url = ""
-  certificate_url = ""
+  company = "IEEE Bangladesh Section SYW Congress-2016"
+  company_url = "https://sites.google.com/site/bdsywc2016/"
   location = "Dhaka"
   date_start = "2016-10-02"
   date_end = "2016-11-04"
-  description = "The largest annual event of IEEE Bangladesh Section."
+  description = """The largest annual event of IEEE Bangladesh Section."""
   
-[[Activities]]
-  organization = "IEEE Region-10 Student Professional Awareness Venture (SPAVe), supported by IEEE USA"
-  organization_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-presents-ieee-region-10-spave/"
+  
+[[experience]]
   title = "Member of Event Coordination Committee"
-  url = ""
-  certificate_url = "https://drive.google.com/drive/folders/1q52i75CNjInvwes0BfzJNzOhweMcFLGK?usp=sharing"
+  company = "IEEE Region-10 Student Professional Awareness Venture (SPAVe), supported by IEEE USA"
+  company_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-presents-ieee-region-10-spave/"
   location = "Dhaka"
   date_start = "2016-12-04"
-  date_end = "2018-02-10"
-  description = "SPAVe stands for Student Professional Awareness Venture. SPAVe took place for the first time in the history of IEEE Bangladesh Section. This venture was supported by IEEE, IEEE USA, IEEE R10, IEEE Bangladesh Section."
+  date_end = ""
+  description = """SPAVe stands for Student Professional Awareness Venture. SPAVe took place for the first time in the history of IEEE Bangladesh Section. This venture was supported by IEEE, IEEE USA, IEEE R10, IEEE Bangladesh Section."""  
   
-[[Activities]]
-  organization = "IEEE AIUB Student Branch Women in Engineering Affinity Group (WIE)"
-  organization_url = "https://ieeeaiubsb.com/women-in-engineering/"
+[[experience]]
   title = "Vice Chairperson"
-  url = ""
-  certificate_url = ""
+  company = "IEEE AIUB Student Branch Women in Engineering Affinity Group (WIE)"
+  company_url = "https://ieeeaiubsb.com/women-in-engineering/"
   location = "Dhaka"
   date_start = "2016-02-04"
   date_end = "2017-06-10"
-  description = ""
+  description = """"""    
 
 +++
