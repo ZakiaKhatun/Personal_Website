@@ -19,20 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organizational url = ""
-  title = "Erasmus Mundus Joint Master Scholarship in Medical Imaging and Applications (MAIA)"
-  organizational url = ""
+  organization = "European Union"
+  organizational url = "https://maiamaster.udg.edu/"
+  title = "Erasmus Mundus Joint Master's Scholarship in Medical Imaging and Applications (MAIA)"
   url = "https://maiamaster.udg.edu/"
   date_start = "2018-09-10"
   date_end = "2020-09-11"
-  description = "This master is a two-year study program divided into four semesters designed and developed to make sure a transparent and structured educational progression within the field of medical image analysis. This program is funded by the European Union."
+  description = "This master is a two-year study program divided into four semesters designed and developed to make sure a transparent and structured educational progression within the field of medical image analysis. This program is fully funded by the European Union."
 
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
-  organizational url = ""
+  organizational url = "https://www.aiub.edu/"
   title = "Dean’s Award for Undergraduate Final Year Thesis"
-  url = ""
+  url = "https://www.aiub.edu/"
   date_start = "2018-01-05"
   date_end = "2018-01-06"
   description = "It is awarded due to obtaining the 7th place out of 180 projects / theses for
@@ -40,7 +39,7 @@ the academic year 2017-2018."
   
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
-  organizational url = ""
+  organizational url = "https://www.aiub.edu/"
   title = "Merit Based Scholarship in Electrical & Electronic Engineering (EEE)"
   url = "https://www.aiub.edu/"
   date_start = "2014-06-02"
