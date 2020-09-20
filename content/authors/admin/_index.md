@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zakia Khatun
 
 # Username (this should match the folder name)
 authors:
@@ -14,28 +14,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Master's student in Medical Imaging and Applications 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Medical Image Processing & Analysis
+- Computer Vision
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Deep learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Erasmus+ Joint Master Program in Medical Imaging and Applications (MAIA)
+    institution: University of Burgundy; University of Cassino; University of Girona
+    year: 2018-2020
+  - course: BSc in Electrical & Electronic Engineering (EEE)
+    institution: American International University-Bangladesh (AIUB)
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
