@@ -20,6 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = ""
+  organizational url = ""
   title = "Erasmus Mundus Joint Master Scholarship in Medical Imaging and Applications (MAIA)"
   organizational url = ""
   url = "https://maiamaster.udg.edu/"
