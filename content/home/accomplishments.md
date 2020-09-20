@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "European Union"
-  organizational url = "https://maiamaster.udg.edu/"
+  organization_url = "https://maiamaster.udg.edu/"
   title = "Erasmus Mundus Joint Master's Scholarship in Medical Imaging and Applications (MAIA)"
   url = "https://maiamaster.udg.edu/"
   date_start = "2018-09-10"
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
-  organizational url = "https://www.aiub.edu/"
+  organization_url = "https://www.aiub.edu/"
   title = "Dean’s Award for Undergraduate Final Year Thesis"
   url = "https://www.aiub.edu/"
   date_start = "2018-01-05"
@@ -39,7 +39,7 @@ the academic year 2017-2018."
   
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
-  organizational url = "https://www.aiub.edu/"
+  organization_url = "https://www.aiub.edu/"
   title = "Merit Based Scholarship in Electrical & Electronic Engineering (EEE)"
   url = "https://www.aiub.edu/"
   date_start = "2014-06-02"
