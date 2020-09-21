@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: Designing an Inverse Kinematics Controller
+summary: The purpose of this project was to design an Inverse Kinematic controller for Kinova Jaco2 robot following some given tasks. Task1- The control objective is position only without exploiting the redundancy. Task2- the control objective is given by both the position and the orientation. While the position needs to move according to the indications above, the orientation needs to be controlled such that it is kept constant at the initial value. Task3- The end-effector orientation needs to be changed. Task4- The redundancy needs to be exploited by maximizing the manipulability.
 tags:
-- PCA 
+- Inverse Kinematics 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- Inverse Kinematics
 featured: true
 
 
@@ -23,3 +23,4 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+The purpose of this project was to design an Inverse Kinematic controller for Kinova Jaco2 robot following some given tasks. Task1- The control objective is position only without exploiting the redundancy. Task2- the control objective is given by both the position and the orientation. While the position needs to move according to the indications above, the orientation needs to be controlled such that it is kept constant at the initial value. Task3- The end-effector orientation needs to be changed. Task4- The redundancy needs to be exploited by maximizing the manipulability.
