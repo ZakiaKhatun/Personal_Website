@@ -1,9 +1,6 @@
 ---
 title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on few training images.
-Steps: 1) Data normalization
-       2) Face recognition
-Normalization of the training data set and principle component analysis was incorporated & A simple Graphical User Interface was designed.
+summary: In this project a simple facial recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
 tags:
 - PCA 
 date: "2016-04-27T00:00:00Z"
