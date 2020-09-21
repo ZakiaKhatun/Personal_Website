@@ -1,8 +1,12 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Face Recognition using Principal Component Analysis
+summary: In this project a simple face recognition system was designed based on few training images.
+Steps: 1) Data normalization
+       2) Face recognition
+▪ Normalization of the training data set and principle component analysis was incorporated &
+▪ A simple Graphical User Interface was designed.
 tags:
-- Deep Learning 
+- PCA 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +15,7 @@ publication_types: ["0"]
 
 
 tags:
-- Deep Learning
+- PCA
 featured: true
 
 links:
@@ -24,8 +28,8 @@ url_code:
 
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  #caption: Photo by rawpixel on Unsplash
+  #focal_point: Smart
 
 projects: []
 # Slides (optional).
