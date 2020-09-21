@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: Vision Application (VIZN)
+summary: VIZN application provides an environment where user will be able to test some performance related to the eyesight, Observing the evolution over time by the means of innovative user controls. In this project, all the tests were prepared in scientific way.
 tags:
-- PCA 
+- App 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- App
 featured: true
 
 
@@ -23,3 +23,4 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+VIZN application provides an environment where user will be able to test some performance related to the eyesight, Observing the evolution over time by the means of innovative user controls. In this project, all the tests were prepared in scientific way.
