@@ -19,9 +19,9 @@ tags:
 featured: true
 
 links:
-- name: Pre-print
+#- name: Pre-print
   url: 
-- name: Slides
+#- name: Slides
   url: 
 url_pdf: 
 url_code:
