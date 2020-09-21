@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: CT Reconstruction using parallelization Strategy
+summary: This project proposes a discrete image reconstruction algorithm using parallel beam geometry where a set of X-ray beams are passed through the object of interest and intensity variations of the beams at input and output are measured. To reconstruct, filtered back projection is used which uses a 1D filter on the projection data before back projecting (2D or 3D) the data onto the image space.
 tags:
-- PCA 
+- Reconstruction 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- Reconstruction
 featured: true
 
 
@@ -23,3 +23,5 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+This project proposes a discrete image reconstruction algorithm using parallel beam geometry where a set of X-ray beams are passed through the object of interest and intensity variations of the beams at input and output are measured. To reconstruct, filtered back projection is used which uses a 1D filter on the projection data before back projecting (2D or 3D) the data onto the image space.
