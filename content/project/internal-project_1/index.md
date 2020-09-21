@@ -2,7 +2,7 @@
 title: Internal Project
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Deep Learning 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,11 +16,11 @@ featured: true
 
 links:
 - name: Pre-print
-  url: https://arxiv.org/abs/1904.00068
+  url: 
 - name: Slides
-  url: https://drive.google.com/open?id=1Kwhmt9qy2LgpjhbEdLaT2h1215JJHrYQ
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8858515
-url_code: https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet
+  url: 
+url_pdf: 
+url_code:
 
 
 image:
