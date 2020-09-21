@@ -23,3 +23,5 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
