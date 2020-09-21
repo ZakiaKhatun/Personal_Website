@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: Breast Mass Detection using Machine Learning algorithm
+summary:  The main aim of this project was to design a Computer Aided Diagnosis system which can detect mass/masses in mammograms to help the screening procedure. System architecture- Image → Candidate extraction → Feature extraction → Classification. Steps- 1) Candidate extraction- Histogram equalization → Multiple thresholding → Selection of n best threshold using mean and variance → Selection of desired threshold based on chosen threshold. 2) Feature extraction- Three types of features used are shape, texture (Haralick) and Intensity features. 3) Classification- Different type of classifiers were tested both individually and as a cascade of two or more to evaluate performance. At the end, the voting between Gaussian Naïve Bayes and Logistic regression was used where this voting is an AND combination of two classifiers.
 tags:
-- PCA 
+- Machine Learning 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- Machine Learning
 featured: true
 
 
@@ -23,3 +23,5 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+The main aim of this project was to design a Computer Aided Diagnosis system which can detect mass/masses in mammograms to help the screening procedure. System architecture- Image → Candidate extraction → Feature extraction → Classification. Steps- 1) Candidate extraction- Histogram equalization → Multiple thresholding → Selection of n best threshold using mean and variance → Selection of desired threshold based on chosen threshold. 2) Feature extraction- Three types of features used are shape, texture (Haralick) and Intensity features. 3) Classification- Different type of classifiers were tested both individually and as a cascade of two or more to evaluate performance. At the end, the voting between Gaussian Naïve Bayes and Logistic regression was used where this voting is an AND combination of two classifiers.
