@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "Home"
+  name = "Accomplishments"
   url = "#accomplishments"
   weight = 20
   
 [[main]]
-  name = "Home"
+  name = "Co-curricular Activities"
   url = "#experience"
   weight = 30
   
