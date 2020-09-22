@@ -45,12 +45,12 @@ social:
   link: mailto:zakiakhatun10@gmail.com  # For a direct email link, use "mailto:zakiakhatun10@gmail.com".
 - icon: github
   icon_pack: fab
-  link: https://github.com/ZakiaKhatun
+  #link: https://github.com/ZakiaKhatun
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/drive/folders/1ujBCHBjbRNiOyZHQ3Kzl6P4e0FcsmlIX?usp=sharing
+  #link: https://drive.google.com/drive/folders/1ujBCHBjbRNiOyZHQ3Kzl6P4e0FcsmlIX?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zakiakhatun10@gmail.com"
@@ -63,4 +63,4 @@ user_groups:
 ---
 
 
-Zakia Khatun is a recently graduated Master's student in the Medical Imaging and Applications program, which is an Erasmus Mundus Joint Master degree. Her research focuses on the processing and analysis of medical images with an emphasis on deep learning.
+Zakia Khatun is a recently graduated Master's student in the 'Medical Imaging and Applications' program. This master's is an Erasmus Mundus Joint Master scholarship funded by the European Union. Her research focuses on the processing and analysis of medical images with an emphasis on deep learning. She obtained a Bachelor of Science in 'Electrical and Electronic Engineering' from 'American International University-Bangladesh' (AIUB) with a CGPA of 3.97 out of 4.00. She was the recipient of a 'Dean's Award' which was awarded based on her final year undergraduate project. She also benefited from a merit-based scholarship throughout her undergraduate studies. Besides her studies, she has also been involved in volunteering in 'IEEE AIUB Student Branch'. Besides her research and her personal life, she enjoys photography, cooking, writing and going out to feel the nature.
