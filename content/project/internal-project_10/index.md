@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: Image registration of chest CT volumes: 4DCT DIR-Lab Challenge
+summary: This project aims to register 3D CT lung images which was tested on first 4 cases available on 4DCT DIR-Lab Challenge. Where, data is available with 300 landmark annotations. Evaluation is made using TRE 3D Euclidean distance between transformed landmarks.
 tags:
-- PCA 
+- Image Registration
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- Image Registration
 featured: true
 
 
@@ -23,3 +23,4 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+This project aims to register 3D CT lung images which was tested on first 4 cases available on 4DCT DIR-Lab Challenge. Where, data is available with 300 landmark annotations. Evaluation is made using TRE 3D Euclidean distance between transformed landmarks.
