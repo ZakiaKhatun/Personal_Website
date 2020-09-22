@@ -1,6 +1,6 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: To design, analyze and implement approaches for brain tissue segmentation
+summary: The main goal of this project is to develop tissue (WM, GM, and CSF) segmentation methods in brain MRI images. Dataset used is IBSR18 which contains 18 skull-stripped and bias field corrected T1-w images with different spatial resolutions (pixel spacing) and there is a heterogeneity in image intensities which hinders segmentation. System architecture- Data → Pre-processing → Segmentation. Steps- 1) Pre-processing (a) Normalization and Skull stripping of MNI template, b) Image Registration (We have used Elastix as a software to apply 3D registration of moving image on fixed), c) Histogram Stretching (The registered volumes’ histograms have been stretched which broadens the histogram of the image intensity levels, d) Histogram Matching (Histogram stretched output of IBSR 07 has been taken as reference to match all other volumes’ stretched histogram), and 2) Segmentation- 3D patch-wise segmentation using 3D U-Net.
 tags:
 - PCA 
 date: "2016-04-27T00:00:00Z"
@@ -23,3 +23,4 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+The main goal of this project is to develop tissue (WM, GM, and CSF) segmentation methods in brain MRI images. Dataset used is IBSR18 which contains 18 skull-stripped and bias field corrected T1-w images with different spatial resolutions (pixel spacing) and there is a heterogeneity in image intensities which hinders segmentation. System architecture- Data → Pre-processing → Segmentation. Steps- 1) Pre-processing (a) Normalization and Skull stripping of MNI template, b) Image Registration (We have used Elastix as a software to apply 3D registration of moving image on fixed), c) Histogram Stretching (The registered volumes’ histograms have been stretched which broadens the histogram of the image intensity levels, d) Histogram Matching (Histogram stretched output of IBSR 07 has been taken as reference to match all other volumes’ stretched histogram), and 2) Segmentation- 3D patch-wise segmentation using 3D U-Net.
