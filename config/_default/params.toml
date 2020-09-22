@@ -98,7 +98,7 @@ address = {city = "Le Creusot", region = "Bourgogne", postcode = "71200", countr
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.793731", longitude = "4.441534"}
+coordinates = {latitude = "46.793746", longitude = "4.442457"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -203,9 +203,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 3
+  publication_view = 3
+  talk_view = 3
 
 ############################
 ## Comments
