@@ -1,8 +1,8 @@
 ---
-title: Face Recognition using Principal Component Analysis
-summary: In this project a simple face recognition system was designed based on a very small dataset of the training images. The two main steps of this project include data normalization and face recognition. After the normalization of the training data set, principle component analysis was incorporated. And a simple Graphical User Interface was designed.
+title: Demonstration of Medical Robotics in Spine Surgery using Tx60 Staubli Robot
+summary: The goal of this project was to demonstrate pedicle screw placement for spine fusion. Steps- 1) Trajectory planning (Type of movement: Point to point), 2) Software simulation of robotic spine surgery (Stäubli Robotics Suite), 3) Testing demo surgery using Tx60 Stabuli.
 tags:
-- PCA 
+- Tx60 Staubli Robot
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 
 
 tags:
-- PCA
+- Tx60 Staubli Robot
 featured: true
 
 
@@ -23,3 +23,5 @@ projects: []
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+
+The goal of this project was to demonstrate pedicle screw placement for spine fusion. Steps- 1) Trajectory planning (Type of movement: Point to point), 2) Software simulation of robotic spine surgery (Stäubli Robotics Suite), 3) Testing demo surgery using Tx60 Stabuli.
