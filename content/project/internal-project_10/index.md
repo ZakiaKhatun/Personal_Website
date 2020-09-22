@@ -1,5 +1,5 @@
 ---
-title: Image registration of chest CT volumes: 4DCT DIR-Lab Challenge
+title: Image registration of chest CT volumes; 4DCT DIR-Lab Challenge
 summary: This project aims to register 3D CT lung images which was tested on first 4 cases available on 4DCT DIR-Lab Challenge. Where, data is available with 300 landmark annotations. Evaluation is made using TRE 3D Euclidean distance between transformed landmarks.
 tags:
 - Image Registration
