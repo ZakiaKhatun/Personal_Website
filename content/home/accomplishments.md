@@ -31,20 +31,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
   organization_url = "https://www.aiub.edu/"
-  title = "Dean’s Award for Undergraduate Final Year Thesis"
-  url = "https://www.aiub.edu/"
+  title = "Dean’s Award for Undergraduate Final Year Project"
+  #url = "https://www.aiub.edu/"
   certificate_url = "https://drive.google.com/drive/folders/1lf7xh8_AtRZaSEaU6jxr-mFTYPsnWrM6?usp=sharing"
   date_start = "2017-12-05"
   date_end = ""
-  description = "It is awarded due to obtaining the 7th place out of 180 projects / theses for the academic year 2017-2018."
+  description = "It is awarded due to securing the 7th position out of 180 projects/theses for the academic year of 2017-2018."
   
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
   organization_url = "https://www.aiub.edu/"
   title = "Merit Based Scholarship in Electrical & Electronic Engineering (EEE)"
-  url = "https://www.aiub.edu/"
+  #url = "https://www.aiub.edu/"
   date_start = "2014-06-02"
   date_end = "2018-02-10"
-  description = "This bachelor degree is a four-year study program which concerns the sensible applications of electricity altogether its forms, including those of the arena of electronics. And this scholarship is awarded for demonstrating academic excellence throughout academic years."
+  description = "This bachelor degree is a four-year study program which concerns the sensible applications of electricity altogether its forms, including those of the arena of electronics. And this scholarship is awarded for demonstrating academic excellence throughout the academic years."
 
 +++
