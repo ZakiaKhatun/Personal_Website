@@ -1,6 +1,6 @@
 ---
 title: Face Recognition using Principal Component Analysis
-subtitle: Project of Applied Mathematics  (​ Master's First Semester at University of Burgundy, January 2019) 
+subtitle: Project of 'Applied Mathematics' course  (​ Master's First Semester at University of Burgundy, January 2019) 
 authors:
 - Zakia Khatun
 - Inder Pal
