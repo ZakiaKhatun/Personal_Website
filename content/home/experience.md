@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-organized-a-seminar-on-road-to-erasmus-scholarship/"
   location = "Dhaka, Bangladesh"
   date_start = "2019-08-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """Guest speaker at a seminar on'Road to Erasmus+ Scholarship', organized by IEEE AIUB Student Branch at American Internation University-Bangladesh."""
   
   
