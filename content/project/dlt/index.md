@@ -13,7 +13,7 @@ date: "2018-06-28"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 #publication: 	arXiv:1810.04637
@@ -31,8 +31,8 @@ tags:
 
 featured: true
 
-#url_pdf: https://arxiv.org/abs/1810.00871
-#url_code: https://github.com/fitushar/Skin-lesion-Segmentation-using-grabcut
+#url_pdf:
+#url_code: 
 
 
 
