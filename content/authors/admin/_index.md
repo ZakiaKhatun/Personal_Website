@@ -43,10 +43,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:zakiakhatun10@gmail.com  # For a direct email link, use "mailto:zakiakhatun10@gmail.com".
-- icon: linkedin 
+  
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zakia-khatun/
-- #icon: github
+  
+  
+#- icon: github
   #icon_pack: fab
   #link: https://github.com/ZakiaKhatun
 # Link to a PDF of your resume/CV from the About widget.
