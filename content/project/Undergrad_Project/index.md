@@ -3,9 +3,9 @@ title: Gesture Controlled Pick & Place Robot
 subtitle: Undergraduate Final Year Project ​(At American International University-Bangladesh, April 2017)
 authors:
 - Zakia Khatun
-- Islam,Alif 
-- Hasan,Shimul 
-- Hossain,Md. Delower 
+- Islam Alif 
+- Hasan Shimul 
+- Hossain Md. Delower 
 date: "2017-04-24"
 #doi: "http://arxiv.org/abs/1810.00871"
 
