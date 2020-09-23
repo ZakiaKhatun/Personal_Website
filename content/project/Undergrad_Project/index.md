@@ -1,9 +1,12 @@
 ---
 title: Gesture Controlled Pick & Place Robot
-subtitle: Undergraduate Final Year Project ​(Second Semester of MAIA at University of Cassino and Southern Lazio, June 2018)
+subtitle: Undergraduate Final Year Project ​(At American International University-Bangladesh, April 2017)
 authors:
 - Zakia Khatun
-date: "2018-06-28"
+- Islam,Alif 
+- Hasan,Shimul 
+- Hossain,Md. Delower 
+date: "2017-04-24"
 #doi: "http://arxiv.org/abs/1810.00871"
 
 # Schedule page publish date (NOT publication's date).
@@ -13,7 +16,7 @@ date: "2018-06-28"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 #publication: 	arXiv:1810.04637
@@ -26,7 +29,8 @@ summary: ''
 
 tags:
 - Wireless controlling
-- Degrees of Freedom, Different Sensors (Accelerometer, Flex, & Ultrasonic)
+- Degrees of Freedom
+- Different Sensors (Accelerometer, Flex, & Ultrasonic)
 
 
 featured: true
@@ -48,7 +52,7 @@ featured: true
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-dlt: []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
