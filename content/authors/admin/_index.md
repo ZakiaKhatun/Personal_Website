@@ -28,8 +28,8 @@ interests:
 
 education:
   courses:
-  - course: Erasmus Mundus Joint Master Program in Medical Imaging and Applications (MAIA)
-    institution: University of Burgundy; University of Cassino; University of Girona
+  - course: Erasmus Mundus Joint Master Degree in Medical Imaging and Applications (MAIA) program
+    institution: University of Burgundy (France) ; University of Cassino (Italy) ; University of Girona (Spain)
     year: 2018-2020
   - course: BSc in Electrical & Electronic Engineering (EEE)
     institution: American International University-Bangladesh (AIUB)
