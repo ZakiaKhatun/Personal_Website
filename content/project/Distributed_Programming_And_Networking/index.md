@@ -2,7 +2,11 @@
 title: Vision Application (VIZN)
 subtitle: Project of 'Distributed Programming and Networking' course  (​ Master's Second Semester at University of Cassino, June 2019) 
 authors:
+- Isaac Llorente
+- Valeria Abramova
 - Zakia Khatun
+- Nur Adhianti
+
 date: "2019-06-09"
 #doi: "http://arxiv.org/abs/1810.00871"
 
