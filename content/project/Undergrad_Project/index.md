@@ -25,7 +25,7 @@ publication_types: ["7"]
 abstract: "In this project, a gesture-controlled pick and place robot was proposed with a drive system. This design is wirelessly controllable using a hand module. Main purpose was to aid physically disabled people to manipulate an object as they wish. Moreover, will be useful in industrial works as it has the option of mobility, a trait that conventional pick and place robots do not have."
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'In this project, a gesture-controlled pick and place robot was proposed with a drive system. This design is wirelessly controllable using a hand module. Main purpose was to aid physically disabled people to manipulate an object as they wish. Moreover, will be useful in industrial works as it has the option of mobility, a trait that conventional pick and place robots do not have.'
 
 tags:
 - Wireless controlling
@@ -33,7 +33,7 @@ tags:
 - Different Sensors (Accelerometer, Flex, & Ultrasonic)
 
 
-featured: true
+featured: false
 
 #url_pdf:
 #url_code: 
