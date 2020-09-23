@@ -17,6 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Guest Speaker"
+  company = "IEEE AIUB Student Branch"
+  company_url = "https://ieeeaiubsb.com/ieee-aiub-student-branch-organized-a-seminar-on-road-to-erasmus-scholarship/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """Guest speaker at a seminar on'Road to Erasmus+ Scholarship', organized by IEEE AIUB Student Branch at American Internation University-Bangladesh."""
+  
+  
 [[experience]]
   title = "Volunteer"
   company = "AIUB Engineering Jubilation-2016"
