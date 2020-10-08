@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Recent Graduate
+role: Medical Data Analyst 
 # Organizations/Affiliations
 organizations:
 - name:  Erasmus Mundus Joint Master Degree in Medical Imaging and Applications
