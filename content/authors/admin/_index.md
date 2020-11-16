@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zakiakhatun10@gmail.com  # For a direct email link, use "mailto:zakiakhatun10@gmail.com".
+  link: mailto:Zakia_Khatun@etu.u-bourgogne.fr  # For a direct email link, use "mailto:Zakia_Khatun@etu.u-bourgogne.fr".
   
 - icon: linkedin
   icon_pack: fab
@@ -59,7 +59,7 @@ social:
   #link: https://drive.google.com/drive/folders/1ujBCHBjbRNiOyZHQ3Kzl6P4e0FcsmlIX?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zakiakhatun10@gmail.com"
+email: "Zakia_Khatun@etu.u-bourgogne.fr"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
