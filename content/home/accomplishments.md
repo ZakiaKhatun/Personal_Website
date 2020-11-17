@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "European Union"
   organization_url = "https://maiamaster.udg.edu/"
-  title = "Erasmus Mundus Joint Master's Scholarship in Medical Imaging and Applications (MAIA)"
+  title = "Erasmus+ Joint Master Degree Scholarship in Medical Imaging and Applications (MAIA)"
   url = "https://maiamaster.udg.edu/"
   certificate_url = "https://drive.google.com/drive/folders/1Kb8LP1nZPuWUfKHkT3m2bbJhVF4ydA6P?usp=sharing"
   date_start = "2018-09-10"
