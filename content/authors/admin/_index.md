@@ -13,7 +13,7 @@ superuser: true
 role: Medical Data Analyst 
 # Organizations/Affiliations
 organizations:
-- name:  Erasmus Mundus Joint Master Degree in Medical Imaging and Applications
+- name:  Erasmus+ Joint Master Degree in Medical Imaging and Applications
   url: "https://maiamaster.udg.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: Erasmus Mundus Joint Master Degree in Medical Imaging and Applications (MAIA) program
+  - course: Erasmus+ Joint Master Degree in Medical Imaging and Applications (MAIA) program
     institution: University of Burgundy (France) ; University of Cassino (Italy) ; University of Girona (Spain)
     year: 2018-2020
-  - course: BSc in Electrical & Electronic Engineering (EEE)
-    institution: American International University-Bangladesh (AIUB)
+  - course: B.Sc. in Electrical & Electronic Engineering (EEE)
+    institution: American International University-Bangladesh (AIUB), Bangladesh
     year: 2014-2018
 
 # Social/Academic Networking
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Zakia Khatun is a recent graduate of the 'Medical Imaging and Applications' program which is an Erasmus Mundus Joint Master scholarship; fully funded by the European Union. Her research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Electronic Engineering' from 'American International University-Bangladesh' with a CGPA of 3.97 out of 4.00. Her undergraduate major was 'Biomedical Instrumentation Measurement & Design'. She received the 'Dean's Award', awarded for her final year undergraduate project. She also benefited from a merit-based scholarship throughout her undergraduate studies. She has also been actively involved in volunteering in 'IEEE AIUB Student Branch'. Besides her research and personal life, she enjoys photography, cooking, handcrafting and going out to feel nature.
+Zakia Khatun is a recent graduate of the 'Medical Imaging and Applications' program which is an Erasmus+ Joint master degree; fully funded by the European Union. Her research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Electronic Engineering' from 'American International University-Bangladesh' with a CGPA of 3.97 out of 4.00. Her undergraduate major was 'Biomedical Instrumentation Measurement & Design'. She received the 'Dean's Award', awarded for her final year undergraduate project. She also benefited from a merit-based scholarship throughout her undergraduate studies. She has also been actively involved in volunteering at 'IEEE AIUB Student Branch'. Besides her research and personal life, she enjoys photography, cooking, handcrafting and going out to feel nature.
