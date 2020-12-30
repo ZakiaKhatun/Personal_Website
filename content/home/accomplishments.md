@@ -52,6 +52,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.aiub.edu/"
   title = "Dean's List Honour"
   #url = "https://www.aiub.edu/"
+  date_start = ""
+  date_end = ""
   description = "This honour was made for continuing academic excellence in each semester."
 
 +++
