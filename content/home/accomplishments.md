@@ -46,5 +46,12 @@ date_format = "Jan 2006"
   date_start = "2014-06-02"
   date_end = "2018-02-10"
   description = "This bachelor degree is a four-year study program which concerns the sensible applications of electricity altogether its forms, including those of the arena of electronics. And this scholarship is awarded for demonstrating academic excellence throughout the academic years."
+  
+  [[item]]
+  organization = "American International University-Bangladesh (AIUB)"
+  organization_url = "https://www.aiub.edu/"
+  title = "Dean's List Honour"
+  #url = "https://www.aiub.edu/"
+  description = "This honour was made for continuing academic excellence in each semester."
 
 +++
