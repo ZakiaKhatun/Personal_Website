@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:Zakia_Khatun@etu.u-bourgogne.fr  # For a direct email link, use "mailto:Zakia_Khatun@etu.u-bourgogne.fr".
+  link: mailto:u1958256@campus.udg.edu  # For a direct email link, use "mailto:u1958256@campus.udg.edu".
   
 - icon: linkedin
   icon_pack: fab
@@ -59,7 +59,7 @@ social:
   #link: https://drive.google.com/drive/folders/1ujBCHBjbRNiOyZHQ3Kzl6P4e0FcsmlIX?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "Zakia_Khatun@etu.u-bourgogne.fr"
+email: "u1958256@campus.udg.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Zakia Khatun is a recent graduate of the 'Medical Imaging and Applications' program which is an Erasmus+ Joint master degree; fully funded by the European Union. Her research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Electronic Engineering' from 'American International University-Bangladesh' with a CGPA of 3.97 out of 4.00. Her undergraduate major was 'Biomedical Instrumentation Measurement & Design'. She received the 'Dean's Award', awarded for her final year undergraduate project. She also benefited from a merit-based scholarship throughout her undergraduate studies. She has also been actively involved in volunteering at 'IEEE AIUB Student Branch'. Besides her research and personal life, she enjoys photography, cooking, handcrafting and going out to feel nature.
+Zakia Khatun is a recent graduate of the 'Medical Imaging and Applications' program which is an Erasmus+ Joint master's degree; fully funded by the European Union. Her research focuses on the processing and analysis of medical images with an emphasis on machine/deep learning. She obtained a Bachelor of Science in 'Electrical & Electronic Engineering' from 'American International University-Bangladesh' with a CGPA of 3.97 out of 4.00. Her undergraduate major was 'Biomedical Instrumentation Measurement & Design'. She received the 'Dean's Award', awarded for her final year undergraduate project. She also benefited from a merit-based scholarship throughout her undergraduate studies. She has also been actively involved in volunteering at 'IEEE AIUB Student Branch'. Besides her research and personal life, she enjoys photography, cooking, handcrafting and going out to feel nature.
