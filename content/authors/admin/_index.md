@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Medical Data Analyst 
+role: Medical Imaging Data Analyst 
 # Organizations/Affiliations
 organizations:
 - name:  Erasmus+ Joint Master Degree in Medical Imaging and Applications
