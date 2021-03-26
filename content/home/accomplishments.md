@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/drive/folders/1lf7xh8_AtRZaSEaU6jxr-mFTYPsnWrM6?usp=sharing"
   date_start = "2017-12-05"
   date_end = ""
-  description = "It is awarded due to securing the 7th position out of 180 projects/theses for the academic year of 2017-2018."
+  description = "It is awarded due to securing the 7th position out of 155 projects/theses for the academic year of 2017-2018."
   
 [[item]]
   organization = "American International University-Bangladesh (AIUB)"
