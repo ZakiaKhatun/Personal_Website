@@ -1,6 +1,6 @@
 ---
 title: Survival Time Prediction of Metastatic Melanoma Patients by Computed Tomography using Convolutional Neural Networks
-subtitle: Master Thesis ​(At EnCoV-TGI, Institut Pascal, Universite Clermont Auvergne, France, August 2020)
+subtitle: Master's Thesis ​(At EnCoV-TGI, Institut Pascal, Universite Clermont Auvergne, France, August 2020)
 authors:
 - Zakia Khatun
 
